@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo Database</string>
+    <string name="input_task">Input Task</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="order_by_description">Order by Description:</string>
+    <string name="insert">Insert</string>
+    <string name="get_tasks">Get Tasks</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+</resources>
